@@ -1,2 +1,2 @@
-# Rigo---The-Variational-Topology-Language-VTL-
-This 
+# rheoversor
+Rheoversor is a constructed language (Englang) designed not merely to describe physical phenomena, but to logically generate them. Unlike traditional ontologies that categorize the world into static objects, Rheoversor is grounded in Field Monism: the universe fundamentally consists of continuous substrates (Fields) and topological knots (Objects), governed by algebraic operators (Generators).
